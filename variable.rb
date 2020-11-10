@@ -3,4 +3,6 @@
 
 greeting = "Hello World"
 
-practicing saving 
+# learn submit - will submit the project
+# learn test - will run the tests for the project
+# learn save - saving the current code to github 
